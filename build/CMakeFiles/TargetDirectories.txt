@@ -1,0 +1,4 @@
+/home/firenzy/repo/NoCap/build/CMakeFiles/imgui.dir
+/home/firenzy/repo/NoCap/build/CMakeFiles/NoCap.dir
+/home/firenzy/repo/NoCap/build/CMakeFiles/edit_cache.dir
+/home/firenzy/repo/NoCap/build/CMakeFiles/rebuild_cache.dir
